@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GPIO0 Pin=R49-2
+Removed Member From Class: ClassName=R49_Nets Member=GPIO0
+Added Pin To Net: NetName=GPIO16 Pin=R49-2
+Added Member To Class: ClassName=R49_Nets Member=Wire GPIO16

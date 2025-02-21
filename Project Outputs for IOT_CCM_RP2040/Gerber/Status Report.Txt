@@ -1,0 +1,27 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [IOT_CCM_RP2040.PcbDoc]
+   Generated File[IOT_CCM_RP2040.GTO]
+   Generated File[IOT_CCM_RP2040.GTP]
+   Generated File[IOT_CCM_RP2040.GTS]
+   Generated File[IOT_CCM_RP2040.GTL]
+   Generated File[IOT_CCM_RP2040.G1]
+   Generated File[IOT_CCM_RP2040.G2]
+   Generated File[IOT_CCM_RP2040.GBL]
+   Generated File[IOT_CCM_RP2040.GBS]
+   Generated File[IOT_CCM_RP2040.GBP]
+   Generated File[IOT_CCM_RP2040.GBO]
+   Generated File[IOT_CCM_RP2040.GM3]
+   Generated File[IOT_CCM_RP2040.GM4]
+   Generated File[IOT_CCM_RP2040.GM5]
+   Generated File[IOT_CCM_RP2040.GM6]
+   Generated File[IOT_CCM_RP2040.GKO]
+   Generated File[IOT_CCM_RP2040.GPT]
+   Generated File[IOT_CCM_RP2040.GPB]
+   Generated File[IOT_CCM_RP2040.GM]
+
+
+Files Generated   : 18
+Documents Printed : 0
+
+Finished Output Generation At 05:48:59 PM On 21-02-2025
