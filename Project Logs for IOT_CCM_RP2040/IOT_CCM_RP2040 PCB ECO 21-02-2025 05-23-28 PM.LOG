@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GPIO4 Pin=J24-6
+Removed Pin From Net: NetName=GPIO5 Pin=J25-6
+Removed Member From Class: ClassName=J24_Nets Member=GPIO4
+Removed Member From Class: ClassName=J25_Nets Member=GPIO5
+Added Pin To Net: NetName=GPIO5 Pin=J24-6
+Added Pin To Net: NetName=GPIO4 Pin=J25-6
+Added Member To Class: ClassName=J25_Nets Member=Wire GPIO4
+Added Member To Class: ClassName=J24_Nets Member=Wire GPIO5

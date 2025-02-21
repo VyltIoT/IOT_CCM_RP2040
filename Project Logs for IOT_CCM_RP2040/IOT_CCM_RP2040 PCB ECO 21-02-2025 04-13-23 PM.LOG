@@ -1,0 +1,21 @@
+Removed Member From Class: ClassName=J30_Nets Member=ESP_IO5
+Removed Member From Class: ClassName=J31_Nets Member=ESP_IO6
+Added Component: Designator=Y?(X503212MSB2GI)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.lcsc.com/szlcsc/Yangxing-Tech-X503212MSB2GI_C112573.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.35mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Yangxing Tech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "X503212MSB2GI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GPIO17 Pin=J30-5
+Added Pin To Net: NetName=GPIO16 Pin=J31-5
+Added Pin To Net: NetName=NetY?_1 Pin=Y?-1
+Added Net: Name=NetY?_1
+Added Pin To Net: NetName=NetY?_2 Pin=Y?-2
+Added Net: Name=NetY?_2
+Added Class: Name=Y?_Nets
+Added Member To Class: ClassName=MCU Member=Component Y? X503212MSB2GI
+Added Member To Class: ClassName=J31_Nets Member=Wire GPIO16
+Added Member To Class: ClassName=J30_Nets Member=Wire GPIO17

@@ -1,0 +1,9 @@
+Added Component: Designator=C54(CAPC2012X13L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=C54-1
+Added Pin To Net: NetName=GND Pin=C54-2
+Added Class: Name=C54_Nets
+Added Member To Class: ClassName=MCU Member=Component C54 MLCC_0805

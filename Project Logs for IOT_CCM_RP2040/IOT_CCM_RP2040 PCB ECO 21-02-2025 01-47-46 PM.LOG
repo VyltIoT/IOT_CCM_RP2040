@@ -1,0 +1,10 @@
+Removed Member From Class: ClassName=SW7_Nets Member=NetR?_1
+Change Component Designator: OldDesignator=C? NewDesignator=C54
+Change Component Designator: OldDesignator=R? NewDesignator=R43
+Change Component Designator: OldDesignator=U? NewDesignator=U11
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR43_1
+Change Net Color : Old Net Color=Black New Net Color=Default
+Change Class Name : Old Net Name=C?_Nets New Net Name=C54_Nets
+Change Class Name : Old Net Name=U?_Nets New Net Name=U11_Nets
+Added Class: Name=R43_Nets
+Added Member To Class: ClassName=SW7_Nets Member=Wire NetR43_1

@@ -1,0 +1,18 @@
+Removed Member From Class: ClassName=J28_Nets Member=ESP_IO0
+Removed Member From Class: ClassName=J25_Nets Member=ESP_IO13
+Removed Member From Class: ClassName=J24_Nets Member=ESP_IO14
+Removed Member From Class: ClassName=J25_Nets Member=ESP_IO21
+Removed Member From Class: ClassName=J29_Nets Member=ESP_IO38
+Removed Member From Class: ClassName=J24_Nets Member=NetJ24_5
+Added Pin To Net: NetName=GPIO2 Pin=J24-5
+Added Pin To Net: NetName=GPIO4 Pin=J24-6
+Added Pin To Net: NetName=GPIO3 Pin=J25-5
+Added Pin To Net: NetName=GPIO5 Pin=J25-6
+Added Pin To Net: NetName=GPIO6 Pin=J28-1
+Added Pin To Net: NetName=GPIO7 Pin=J29-1
+Added Member To Class: ClassName=J24_Nets Member=Wire GPIO2
+Added Member To Class: ClassName=J25_Nets Member=Wire GPIO3
+Added Member To Class: ClassName=J24_Nets Member=Wire GPIO4
+Added Member To Class: ClassName=J25_Nets Member=Wire GPIO5
+Added Member To Class: ClassName=J28_Nets Member=Wire GPIO6
+Added Member To Class: ClassName=J29_Nets Member=Wire GPIO7
